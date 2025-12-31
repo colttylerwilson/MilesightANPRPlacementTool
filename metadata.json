@@ -1,0 +1,5 @@
+{
+  "name": "ANPR Camera Placement Tool",
+  "description": "A professional tool for planning ANPR camera installations. Place cars and cameras on a scaled site plan or map to calculate Pixels Per Foot (PPF) and installation angles, ensuring high-confidence license plate recognition.",
+  "requestFramePermissions": []
+}
